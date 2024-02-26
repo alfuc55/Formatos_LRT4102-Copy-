@@ -1,3 +1,5 @@
+# librerias 
+import numpy
 barras = int(input("Introduce el número de barras vendidas que no son frescas: "))
 precio = 3.49 
 descuento = 0.6
